@@ -1,0 +1,6 @@
+<mirror>
+    <id>yandex</id>
+    <name>Yandex Maven Mirror</name>
+    <url>https://maven.mcsps.ru/content/groups/public/</url>
+    <mirrorOf>central</mirrorOf>
+</mirror>
